@@ -1,0 +1,10 @@
+*.exe
+*.exe~
+!.gitkeep
+.DS_Store
+/.idea
+/.vscode
+__debug_bin
+/test/
+*.db
+.claude

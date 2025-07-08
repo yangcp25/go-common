@@ -1,4 +1,4 @@
-module github.com/ycp19940225/go-common/gorm
+module github.com/yangcp25/go-common/gorm
 
 go 1.24
 
